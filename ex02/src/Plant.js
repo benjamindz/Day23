@@ -11,7 +11,7 @@ class Plant extends Component {
       <div>
         <h2>Plant type is {this.state.type}</h2>
       </div>
-    )
+    );
   }
 }
 
