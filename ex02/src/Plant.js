@@ -9,9 +9,9 @@ class Plant extends Component {
   render() {
     return (
       <div>
-        <h2>Plant type is {this.state.type}</h2>;
+        <h2>Plant type is {this.state.type}</h2>
       </div>
-    );
+    )
   }
 }
 
